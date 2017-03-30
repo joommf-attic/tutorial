@@ -10,8 +10,6 @@ Welcome to tutorial's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   dynamics
-
 Indices and tables
 ==================
 
