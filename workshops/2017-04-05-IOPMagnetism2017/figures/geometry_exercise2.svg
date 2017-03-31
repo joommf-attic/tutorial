@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="geometry_exercise2.svg"
-   inkscape:export-filename="/home/mb1a15/git/workshop/tutorial/geometry_exercise2.png"
+   inkscape:export-filename="/home/mb1a15/git/tutorial/workshops/2017-04-05-IOPMagnetism2017/geometry_exercise2.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -137,7 +137,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -266,18 +266,6 @@
              id="path4429-0"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cc" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text4169-9-9-9-2"
-             y="450.08536"
-             x="214.0332"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               style="font-size:25px"
-               y="450.08536"
-               x="214.0332"
-               id="tspan4171-6-3-6-7"
-               sodipodi:role="line">10 nm</tspan></text>
           <path
              style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              d="m 226.34068,309.87233 0,-41.22518"
