@@ -1,4 +1,5 @@
-# Jupyter OOMMF tutorial at IoP Magnetism conference, 5 April 2017, York
+# Jupyter OOMMF tutorial 
+Magnetism conference, 5 April 2017, York
 
 ## Help
 
@@ -12,14 +13,17 @@
 
 There are two different ways to get all required materials for the workshop:
 
-1. If you have `git` installed on your computer, you can simply clone the repository by running:
-```
-git clone https://github.com/joommf/tutorial.git
-```
+1. You can download the contents of the repository from this [link](https://github.com/joommf/tutorial/archive/master.zip) as a zip file.
 
-2. Otherwise, you can download the contents of the repository from this [link](https://github.com/joommf/tutorial/archive/master.zip).
+   When you obtain the repository contents, please navigate to `tutorial-master/workshops/2017-04-05-IOPMagnetism2017` directory.
 
-When you obtain the repository contents, please navigate to `tutorial-master/workshops/2017-04-05-IOPMagnetism2017` directory.
+
+2. If wish to use `git`, you can clone the repository by running:
+   ```
+   git clone https://github.com/joommf/tutorial.git
+   ```
+
+
 
 ## Exercises and Updates during the workshop
 
