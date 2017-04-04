@@ -24,7 +24,7 @@ git clone https://github.com/joommf/tutorial.git
 
 2. Otherwise, you can download the contents of the repository from this [link](https://github.com/joommf/tutorial/archive/master.zip).
 
-When you obtain the repository contents, please navigate to `tutorial/workshops/2017-04-05-IOPMagnetism2017` directory.
+When you obtain the repository contents, please navigate to `tutorial-master/workshops/2017-04-05-IOPMagnetism2017` directory.
 
 ## Updates
 
