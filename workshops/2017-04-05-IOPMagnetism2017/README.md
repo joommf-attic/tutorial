@@ -25,15 +25,18 @@ There are two different ways to get all required materials for the workshop:
    git clone https://github.com/joommf/tutorial.git
    ```
 
+## Exercises
 
-
-## Exercises and Updates during the workshop
-
-Here is the proposed set of exercises to follow. Any updates that are
-required during the workshop will be posted here.
+Here is the proposed set of exercises to follow.
 
 Exercises:
 - to be confirmed
+
+
+## Updates and news - will be updated during the workshop if required
+Nothing to report.
+Last update: 4 April 2017 11:04
+
 
 ## Software installation, Tutorial files etc
 
