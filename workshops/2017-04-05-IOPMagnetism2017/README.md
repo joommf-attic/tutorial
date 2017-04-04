@@ -21,7 +21,7 @@ git clone https://github.com/joommf/tutorial.git
 
 When you obtain the repository contents, please navigate to `tutorial-master/workshops/2017-04-05-IOPMagnetism2017` directory.
 
-## Updates
+## Exercises and Updates during the workshop
 
 Here is the proposed set of exercises to follow. Any updates that are
 required during the workshop will be posted here.
@@ -31,9 +31,6 @@ Exercises:
 
 ## Software installation, Tutorial files etc
 
-See
-the
-[tutorial/workshops/2017-04-05-IOPMagnetism2017/index.ipynb](tutorial/workshops/2017-04-05-IOPMagnetism2017/index.ipynb),
-eiher
+See the `tutorial-master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb` eiher
 [online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb) or
 in your downloaded teaching materials.
