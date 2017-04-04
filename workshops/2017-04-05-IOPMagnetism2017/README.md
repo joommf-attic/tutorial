@@ -29,8 +29,23 @@ There are two different ways to get all required materials for the workshop:
 
 Here is the proposed set of exercises to follow.
 
-Exercises:
-- to be confirmed
+Tutorial-based exercises:
+
+- Tutorial 1:
+  - [ ] Exercise 1a
+  - [ ] Exercise 1b
+  - [ ] Exercise 2
+- Tutorial 2
+  - [ ] Exercise 1
+  - [ ] Exercise 2
+- Tutorial 3
+  - [ ] Exercise 1
+  - [ ] Exercise 2
+  - [ ] Exercise 3
+- Tutorial 4
+  - [ ] Exercise
+- Simulating conversion of a domain wall pair into a skyrmion
+  - [ ] `exercise_dw_pair_conversion.ipynb`
 
 
 ## Updates and news - will be updated during the workshop if required
