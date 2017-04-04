@@ -1,3 +1,5 @@
+This URL can be found via http://bit.ly/2nSqK7f
+
 # Jupyter OOMMF tutorial 
 Magnetism conference, 5 April 2017, York
 
