@@ -29,20 +29,20 @@ There are two different ways to get all required materials for the workshop:
 
 Here is the proposed set of exercises to follow.
 
-Tutorial-based exercises:
-
-- Tutorial 1:
+- Tutorial 0: First notebook
+  - [ ] Exercise 
+- Tutorial 1: Setting geometry and initial magnetisation
   - [ ] Exercise 1a
   - [ ] Exercise 1b
   - [ ] Exercise 2
-- Tutorial 2
+- Tutorial 2: Setting hamiltonians
   - [ ] Exercise 1
   - [ ] Exercise 2
-- Tutorial 3
+- Tutorial 3: Dynamics (Macrospin)
   - [ ] Exercise 1
   - [ ] Exercise 2
   - [ ] Exercise 3
-- Tutorial 4
+- Tutorial 4: Domain wall motion (current driven, with DMI)
   - [ ] Exercise
 - Simulating conversion of a domain wall pair into a skyrmion
   - [ ] `exercise_dw_pair_conversion.ipynb`
