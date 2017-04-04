@@ -3,10 +3,7 @@
 ## Help
 
 - ask one of our demonstrators
-  - Marijan Beg
-  - Ryan Pepper
-  - Leoni Breth
-  - Hans Fangohr
+  - Marijan Beg, Ryan Pepper, Leoni Breth, Hans Fangohr
 
 - post your query on
   our [chat channel](https://gitter.im/joommf/support)
