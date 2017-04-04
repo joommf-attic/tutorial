@@ -25,6 +25,17 @@ There are two different ways to get all required materials for the workshop:
    git clone https://github.com/joommf/tutorial.git
    ```
 
+## Updates and news - will be updated during the workshop if required
+Nothing to report.
+Last update: 4 April 2017 11:04
+
+
+## Software installation, Tutorial files etc
+
+See the `tutorial-master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb` eiher
+[online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb) or
+in your downloaded teaching materials.
+
 ## Exercises
 
 Here is the proposed set of exercises to follow.
@@ -46,15 +57,3 @@ Here is the proposed set of exercises to follow.
   - [ ] Exercise
 - Simulating conversion of a domain wall pair into a skyrmion
   - [ ] `exercise_dw_pair_conversion.ipynb`
-
-
-## Updates and news - will be updated during the workshop if required
-Nothing to report.
-Last update: 4 April 2017 11:04
-
-
-## Software installation, Tutorial files etc
-
-See the `tutorial-master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb` eiher
-[online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb) or
-in your downloaded teaching materials.
