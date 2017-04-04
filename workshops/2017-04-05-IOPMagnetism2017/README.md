@@ -2,11 +2,9 @@
 
 ## Help
 
-- ask one of our demonstrators
-  - Marijan Beg, Ryan Pepper, Leoni Breth, Hans Fangohr
+- ask one of our demonstrators (Marijan Beg, Ryan Pepper, Leoni Breth, Hans Fangohr)
 
-- post your query on
-  our [chat channel](https://gitter.im/joommf/support)
+- post your query on our [chat channel](https://gitter.im/joommf/support)
 
 - Or consider other [communication channels](http://joommf.github.io/contact.html)
 
