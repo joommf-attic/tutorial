@@ -27,13 +27,13 @@ There are two different ways to get all required materials for the workshop:
 
 ## Updates and news - will be updated during the workshop if required
 Nothing to report.
-Last update: 4 April 2017 11:04
+Last update: 24 April 2017 13:00
 
 
 ## Software installation, Tutorial files etc
 
-See the `tutorial-master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb` eiher
-[online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-05-IOPMagnetism2017/index.ipynb) or
+See the `tutorial-master/workshops/2017-04-24-Intermag2017/index.ipynb` eiher
+[online](https://github.com/joommf/tutorial/blob/master/workshops/2017-04-24-Intermag2017/index.ipynb) or
 in your downloaded teaching materials.
 
 ## Exercises
