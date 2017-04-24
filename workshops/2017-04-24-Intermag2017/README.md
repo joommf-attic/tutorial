@@ -1,4 +1,4 @@
-This URL can be found via http://bit.ly/2nSqK7f
+This URL can be found via http://bit.ly/2q5M7Se
 
 # JOOMMF tutorial 
 Intermag2017, Dublin, 24-28 April 2017
