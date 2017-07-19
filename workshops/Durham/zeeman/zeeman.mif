@@ -18,7 +18,7 @@ Specify Oxs_RectangularMesh:mesh {
 Specify Oxs_FixedZeeman {
   field {
     Oxs_UniformVectorField {
-      vector {0 0 1000000.0}
+      vector {-1000000.0 0 0}
     }
   }
   multiplier 1
